@@ -1,5 +1,7 @@
 # P-Wave Arrival-Time Tomography of the Middle East using ISC-EHB and Waveform Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15115350.svg)](https://doi.org/10.5281/zenodo.15115350)
+
 ## Data
 
 P-wave arrival-time data is available is available at [International
