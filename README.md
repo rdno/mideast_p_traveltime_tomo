@@ -28,6 +28,18 @@ latitude, and the model perturbation.
 - `horizontal_xsections/isc_only_m1_ytry02`: inverted model using only ISC-EHB data.
 
 
+## Vertical Cross-sections
+
+Vertical cross sections included in the paper can be found under
+`vertical_xsections` folder.  Files contain 5 columns: distance to
+starting location in degrees, radius in km, model perturbation,
+longitude, and latitude.
+
+- `vertical_xsections/arabia`: Cross sections across Arabian Plate.
+- `vertical_xsections/hellenic`: Cross sections across Hellenic, Cyprus Arc and Across Anatolia.
+- `vertical_xsections/chang_compare`: Cross sections for comparisons with Chang & van der Lee (2011).
+
+
 ## Model files
 
 Model data in Princeton Standard Grid format are stored under the
