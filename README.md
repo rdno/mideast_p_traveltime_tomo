@@ -24,4 +24,5 @@ Horizontal model cross-sections are provided as individual files for
 each depth (11-1400 km). Files contain three columns: longitude,
 latitude, and the model perturbation.
 
-- `invSAobs_m1_yty02`: inverted model using ISC and Saudi Arabia waveform data.
+- `horizontal_xsections/isc_only_m1_ytry02`: inverted model using only ISC-EHB data..
+- `horizontal_xsections/isc_and_saobs_m1_ytry02`: inverted model using ISC-EHB and Saudi Arabia waveform data.
