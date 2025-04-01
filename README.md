@@ -24,5 +24,17 @@ Horizontal model cross-sections are provided as individual files for
 each depth (11-1400 km). Files contain three columns: longitude,
 latitude, and the model perturbation.
 
-- `horizontal_xsections/isc_only_m1_ytry02`: inverted model using only ISC-EHB data..
 - `horizontal_xsections/isc_and_saobs_m1_ytry02`: inverted model using ISC-EHB and Saudi Arabia waveform data.
+- `horizontal_xsections/isc_only_m1_ytry02`: inverted model using only ISC-EHB data.
+
+
+## Model files
+
+Model data in Princeton Standard Grid format are stored under the
+`models` folder. To generate horizontal cross-sections `plotglobal`,
+and for vertical cross-sections `slicedcubedsphere` scripts from the
+[BD-Soft](https://www.geoazur.fr/GLOBALSEIS/Soft.html) can be used.
+
+- `models/solx.02.dlnVp.invSAobsM1stder0p65regdataer_ytry0p02`: inverted model using ISC-EHB and Saudi Arabia waveform data.
+- `models/solx.02.dlnVp.iscm1ytry0p02`: inverted model using only ISC-EHB data.
+
